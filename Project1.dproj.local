@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.559,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.457,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.390,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.195,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>2020-05-21 08:30:39.316,=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>2020-05-21 08:32:02.823,=D:\Lidashi\dephixeproject\Unit2.pas</Transaction>
+    <Transaction>2020-05-21 08:32:21.164,D:\Lidashi\dephixeproject\Rdp.pas=D:\Lidashi\dephixeproject\Unit2.pas</Transaction>
+    <Transaction>2020-05-21 08:35:24.241,D:\Lidashi\dephixeproject\RdpCrypt.pas=D:\Lidashi\dephixeproject\Rdp.pas</Transaction>
+    <Transaction>2020-05-21 08:36:25.631,D:\Lidashi\dephixeproject\RDP\Unit1.dfm=D:\Lidashi\dephixeproject\Unit1.dfm</Transaction>
+    <Transaction>2020-05-21 08:36:25.631,D:\Lidashi\dephixeproject\RDP\Unit1.pas=D:\Lidashi\dephixeproject\Unit1.pas</Transaction>
+    <Transaction>2020-05-21 08:36:32.429,D:\Lidashi\dephixeproject\RDP\Project1.dproj=D:\Lidashi\dephixeproject\Project1.dproj</Transaction>
+    <Transaction>2020-05-21 08:37:39.503,D:\Lidashi\dephixeproject\RDP\RdpCrypt.pas=D:\Lidashi\dephixeproject\RdpCrypt.pas</Transaction>
+  </Transactions>
+</BorlandProject>
